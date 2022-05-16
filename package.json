@@ -18,5 +18,13 @@
     "express-session": "^1.17.3",
     "mongoose": "^6.3.3",
     "multer": "^1.4.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoanguye99/node-zing-mp3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoanguye99/node-zing-mp3/issues"
+  },
+  "homepage": "https://github.com/hoanguye99/node-zing-mp3#readme"
 }
